@@ -1,5 +1,13 @@
 # Changelog
 
+## 0.1.0-alpha.53 (2025-02-04)
+
+Full Changelog: [v0.1.0-alpha.52...v0.1.0-alpha.53](https://github.com/openai/openai-go/compare/v0.1.0-alpha.52...v0.1.0-alpha.53)
+
+### Chores
+
+* **docs:** add docstring explaining streaming pattern ([#205](https://github.com/openai/openai-go/issues/205)) ([0bdb37f](https://github.com/openai/openai-go/commit/0bdb37f7efd9b338c32a1a83b90cecdb74f8ecce))
+
 ## 0.1.0-alpha.52 (2025-02-03)
 
 Full Changelog: [v0.1.0-alpha.51...v0.1.0-alpha.52](https://github.com/openai/openai-go/compare/v0.1.0-alpha.51...v0.1.0-alpha.52)
